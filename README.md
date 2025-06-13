@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pucrj-analisededados-mvp-eda
 MVP da SPRINT de Análise Exploratória de Dados da pós-graduação em Ciência de Dados e Analytcs da PUC-RJ
 
@@ -38,3 +39,6 @@ Se necessário, faça upload do arquivo `dataset_pv_nafta.xlsx` na área de arqu
 
 Este projeto é apenas para fins acadêmicos e segue as diretrizes de ética e confidencialidade de dados.
 
+=======
+# pucrj-analisededados-mvp-eda
+>>>>>>> 15f949da81e3b3015eba898f0b478b243aeb98fb
