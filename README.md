@@ -7,7 +7,7 @@ MVP da SPRINT de Análise Exploratória de Dados da pós-graduação em Ciência
 **Matrícula:** 4052025000952  
 **Dataset:** Pressão de Vapor da Nafta
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/mvp-analise-dados-nafta/blob/master/mvp_sprint_01_fma_2025.ipynb)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fdamata/pucrj-analisededados-mvp-eda/blob/master/mvp_sprint_01_fma_2025.ipynb)
 
 ## Descrição do Projeto
 
