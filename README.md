@@ -4,7 +4,6 @@ MVP da SPRINT de Análise Exploratória de Dados da pós-graduação em Ciência
 # MVP – Análise de Dados e Boas Práticas
 
 **Autor:** Fabiano da Mata Almeida  
-**Matrícula:** 4052025000952  
 **Dataset:** Pressão de Vapor da Nafta
 
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fdamata/pucrj-analisededados-mvp-eda/blob/master/mvp_sprint_01_fma_2025.ipynb)
