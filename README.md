@@ -39,5 +39,3 @@ Este projeto é apenas para fins acadêmicos e segue as diretrizes de ética e c
 
 =======
 # pucrj-analisededados-mvp-eda
->>>>>>> 15f949da81e3b3015eba898f0b478b243aeb98fb
-"# pucrj-analisededados-mvp-eda" 
