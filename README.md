@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 06482875c5dc295dbbd1c255a6deffce3032b671
 # pucrj-analisededados-mvp-eda
 MVP da SPRINT de Análise Exploratória de Dados da pós-graduação em Ciência de Dados e Analytcs da PUC-RJ
 
@@ -42,3 +45,4 @@ Este projeto é apenas para fins acadêmicos e segue as diretrizes de ética e c
 =======
 # pucrj-analisededados-mvp-eda
 >>>>>>> 15f949da81e3b3015eba898f0b478b243aeb98fb
+"# pucrj-analisededados-mvp-eda" 
