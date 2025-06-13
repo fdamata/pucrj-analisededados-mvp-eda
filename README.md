@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 06482875c5dc295dbbd1c255a6deffce3032b671
 # pucrj-analisededados-mvp-eda
 MVP da SPRINT de Análise Exploratória de Dados da pós-graduação em Ciência de Dados e Analytcs da PUC-RJ
 
